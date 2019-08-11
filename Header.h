@@ -1,10 +1,6 @@
 /*
 	Author: Miguel Hernandez-Ortiz
 	Date: November 29, 2017
-	CopyRight © 2017 Miguel Hernandez-Ortiz
-	All Rights Reserved
-	Final Project Part 1: Inheritance(Classes)
-	CSC215
 */
 
 
